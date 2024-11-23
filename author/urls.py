@@ -1,3 +1,3 @@
-# Create your urls here
+app_name = "author"
 
 urlpatterns = []
